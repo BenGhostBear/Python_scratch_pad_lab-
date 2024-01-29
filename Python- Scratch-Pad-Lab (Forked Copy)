@@ -1,0 +1,15 @@
+def main():
+  print("Starting The Code Michael")
+
+
+  print("Starting MY code Challenge")
+
+  print('Enter Your Code Here MICHAEL:')
+  x = 10
+  y = 20
+  z = x + y 
+  print(x,y,z)
+  print("Ending part 1 Of Code Challenge")
+  print("Ending The Code Challenge")
+
+main()
